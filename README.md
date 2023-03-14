@@ -1,2 +1,2 @@
 # winActivator-versions
-repository for download windows activators
+repository to download windows activators
